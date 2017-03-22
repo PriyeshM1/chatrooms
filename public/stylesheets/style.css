@@ -19,7 +19,7 @@ a {
 }
 
 #messages {
-    width: 690px;
+    width: 800px;
     height: 300px;
     overflow: auto;
     background-color: #eee;
@@ -27,6 +27,7 @@ a {
     margin-right: 10px;
 }
 
+/*
 #room-list {
     float: right;
     width: 100px;
@@ -41,6 +42,7 @@ a {
 #room-list div:hover {
     background-color: #ddd;
 }
+*/
 
 #send-message{
     width: 700px;
